@@ -2,8 +2,9 @@
 
 # Game Offsets
 
+
 For Help join [my Discord](https://discord.gg/6sXvE54MBt)
----
+
 
 ---
 |       Game       |  Last Update |
